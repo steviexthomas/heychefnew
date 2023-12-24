@@ -11,6 +11,6 @@ Hey Chef is an AI-driven culinary assistant that helps users discover new recipe
 ## Installation
 Prerequisites: Python 3.8+
 ```bash
-git clone https://github.com/yourusername/hey-chef.git
+git clone https://github.com/steviexthomas/hey-chef.git
 cd hey-chef
 pip install -r requirements.txt
